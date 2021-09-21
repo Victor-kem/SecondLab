@@ -1,5 +1,5 @@
 # SecondLab
-Лабораторная работа №2
+Лабораторная работа №2\n
 Запущенное приложение
 ![alt text](https://github.com/Victor-kem/SecondLab/blob/main/SecondLab0.png?raw=true)
 Выбран вид пива "Light"
